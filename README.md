@@ -32,4 +32,4 @@
 ## 💼 Get in touch
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stefanos-pappas/)
-[![image](https://img.shields.io/badge/Gmail-%23E44D27?style=flat-square&logo=gmail&logoColor=white)](mailto:stephpp404@gmail.com)
+[![image](https://img.shields.io/badge/Gmail-%23E44D27?style=flat-square&logo=gmail&logoColor=white)](mailto:stephenpapp30@gmail.com)
